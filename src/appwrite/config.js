@@ -1,5 +1,4 @@
-import { defaultClientConditions } from 'vite';
-import {conf} from '../conf/conf.js';
+import conf from '../conf/conf.js';
 import {Client, Account, ID, Databases, Storage, Query} from "appwrite";
 
 export class Service{

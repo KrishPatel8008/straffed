@@ -53,7 +53,7 @@ function Header() {
                     </button>
                   </li>
                 ) : null )}
-                {authService && (
+                {authStatus && (
                   <li>
                     <LogoutBtn/>
                   </li>
