@@ -2,7 +2,9 @@ import React from 'react'
 
 function Logo({width = '100px'}) {
   return (
-    <div>Logo</div>
+    <div style={{ maxWidth: width }} className='font-bold text-xl whitespace-nowrap'>
+      🎮 GameBlog
+    </div>
   )
 }
 
