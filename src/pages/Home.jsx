@@ -25,12 +25,10 @@ function Home() {
             <div className='w-full py-16 bg-teal-950 text-white text-center'>
                 <Container>
                     <h1 className='text-4xl md:text-5xl font-bold mb-4'>
-                        Welcome to GameBlog 🎮
+                        Welcome Gamers !!
                     </h1>
                     <p className='text-teal-100 max-w-xl mx-auto text-lg'>
-                        Just a small corner of the internet where I write about the games I'm
-                        playing — reviews, hot takes, and the occasional rant about a boss
-                        fight that ruined my week.
+                        Just a small corner of the internet where anyonecan write about the games they are playing — from clutch Valorant rounds, to Elden Ring boss fights that ruined your week, to your latest Minecraft builds.
                     </p>
 
                     {!authStatus && (

@@ -14,7 +14,7 @@ function Footer() {
                             </div>
                             <div>
                                 <p className="text-sm text-orange-100">
-                                    &copy; 2026 GameBlog. Built by one person who really likes video games.
+                                    &copy; 2026 Straffed. Built by one person who really likes video games.
                                 </p>
                             </div>
                         </div>
