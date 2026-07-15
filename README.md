@@ -4,7 +4,7 @@ A small, personal blog about video games — built while learning React, Redux, 
 
 No editorial team, no sponsored posts, just one person writing about the games they've been playing (and occasionally ranting about a boss fight that ruined their week).
 
-🔗 **Live site:** [game-blog-777.vercel.app](https://game-blog-777.vercel.app/)
+🔗 **Live site:** [game-blog-777.vercel.app](https://straffed.vercel.app/)
 
 ---
 
@@ -38,8 +38,8 @@ No editorial team, no sponsored posts, just one person writing about the games t
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/KrishPatel8008/gameBlog.git
-   cd gameBlog
+   git clone https://github.com/KrishPatel8008/straffed.git
+   cd straffed
    ```
 
 2. Install dependencies
