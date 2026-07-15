@@ -1,4 +1,4 @@
-# 🎮 GameBlog
+# STRAFFED
 
 A small, personal blog about video games — built while learning React, Redux, and Appwrite along the way.
 
